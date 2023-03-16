@@ -1,4 +1,4 @@
-# Trading Bot Demo
+# This Flashloan Arbitrage Trading Bot has been programmed to monitor the Ethereum blockchain for price discrepancies for the SHIB/WETH trading pair between the UniSwap V2 and SushiSwap V2 DEXes. Read below on how to customize it to monitor for your other trading pairs and decentralized cryptocurrency exchanges. The easiest way to start is by changing the contract addresses for the trading pairs and use UniSwap V2 forked exchanges.
 
 ## Technology Stack & Tools
 
